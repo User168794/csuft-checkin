@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">平安打卡</string>
+    <string name="subtitle">中南林科大 · 学生工作部</string>
+    <string name="status_init">正在查询今日打卡状态…</string>
+    <string name="btn_checkin">立即打卡</string>
+    <string name="auto_label">每日自动打卡</string>
+    <string name="auto_hint">窗口 21:00–22:30 · 到点自动复核，已打卡自动跳过</string>
+    <string name="recheck_label">窗口结束后复核</string>
+    <string name="recheck_hint">22:35 自动查询并通知最终判词（是否打卡成功）</string>
+    <string name="btn_refresh">刷新</string>
+    <string name="token_label">登录与续期</string>
+    <string name="btn_update_token">手机号登录</string>
+    <string name="records_label">最近记录</string>
+    <string name="records_empty">暂无记录</string>
+    <string name="btn_battery">加入电池优化白名单</string>
+    <string name="help_note">为确保到点自动运行：设置→应用→平安打卡→电池→允许「后台高耗电」；i管家→应用自启动→允许；最近任务卡片下拉「锁定」。并加入电池优化白名单。</string>
+    <string name="version_note">v2.12 诊断版 · 运行日志 + 后台心跳 · 自动续期 · 每天只允许打卡一次</string>
+    <string name="log_label">运行日志（诊断）</string>
+    <string name="btn_log">查看完整日志</string>
+    <string name="next_slot_init">下次自动班次：—</string>
+    <string name="log_empty">暂无日志</string>
+</resources>

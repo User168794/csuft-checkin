@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#FAF6EE</color>
+    <color name="bg">#FAF6EE</color>
+    <color name="card">#FFFDF7</color>
+    <color name="line">#3A362F</color>
+    <color name="muted">#8B857A</color>
+    <color name="accent">#E4642F</color>
+    <color name="danger">#C0502F</color>
+    <color name="ok">#4C7A52</color>
+</resources>

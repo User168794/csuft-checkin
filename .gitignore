@@ -1,0 +1,10 @@
+# 编译产物
+build/
+
+# 签名密钥（本地保留不入库；build.sh 缺失时会自动生成）
+debug.keystore
+*.idsig
+
+# 系统文件
+.DS_Store
+Thumbs.db
