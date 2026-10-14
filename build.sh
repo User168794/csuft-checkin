@@ -3,7 +3,7 @@
 # 依赖：bash + JDK(javac) + Android SDK(build-tools 36.1.0 / platform android-36.1)
 # 机器相关路径可用环境变量覆盖：ANDROID_SDK / ANDROID_BT_VERSION / JAVA_BIN / CHECKIN_OUT_DIR
 set -e
-SDK="${ANDROID_SDK:-C:/Users/ABC/AppData/Local/Android/Sdk}"
+SDK="${ANDROID_SDK:-C:/Users/$USERNAME/AppData/Local/Android/Sdk}"
 BT_VERSION="${ANDROID_BT_VERSION:-36.1.0}"
 BT="$SDK/build-tools/$BT_VERSION"
 PLATFORM="$SDK/platforms/android-36.1/android.jar"
